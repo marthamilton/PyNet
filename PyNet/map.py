@@ -54,7 +54,7 @@ room_body = {
     "description":
     """You walk over to the lifeless body. You notice a pulse but they have clearly been struck to the head, or gotten
     overly drunk for a Monday morning. As you are the protagonist of a text-based adventure, your first instinct is not
-    to help but to scavenge for any loot he might have. He appears to blessed with a chainsaw. That's convenient.""",
+    to help but to scavenge for any loot he might have. He appears to be blessed with a chainsaw. That's convenient.""",
 
     "exits": {"right": "Floor1", "f": "pay respects"},
 
@@ -144,7 +144,7 @@ room_lecture = {
     "name": "Lecture Hall",
 
     "description":
-    """Oh dear. You recognise now that perhaps you might some involvement here. """,
+    """Oh dear. You recognise now that perhaps you might have some involvement here. """,
 
     "exits": {"down": "Floor2", "left": "Lecture Hall"},
 
